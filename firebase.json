@@ -1,0 +1,9 @@
+{
+  "firebase": "pocketbudget",
+  "public": "/Users/NidhiJain/Desktop/extracurr/Apps/Pocket",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
